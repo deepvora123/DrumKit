@@ -1,5 +1,5 @@
 # Drum_Kit
-#### A project for FYs under CoC WebDev Workshop.
+#### A project under CoC WebDev Workshop.
 
 The folder structure contains files in the following format : 
 * The **OnlyHTMLStuff** folder contains the HTML file only. This is a starter file
@@ -7,7 +7,6 @@ used as a base. To be taught once the HTML Session has finished. After creating 
 the HTML file, the file is displayed in the browser as follows :
 
 ![Preview](images/v1.png)
-
 
 * After this, the **HTML&CSS_Stuff**folder contains the designing using the
 `style.css` file. The HTML file is linked and the resulting page is as:
@@ -20,4 +19,4 @@ it to the HTML file. The final output with a preview is :
 
 ![Preview](images/v3.png)
 
-That's it. We're done. A Project by CoC for FYs in the WebDev Workshop.
+That's it. We're done.
